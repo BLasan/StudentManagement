@@ -1,0 +1,1 @@
+This is a student management system to store,retrieve,manipulate data in an efficient way
